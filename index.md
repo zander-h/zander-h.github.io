@@ -10,5 +10,6 @@ Punkt ist ein internationaler und außerordentlich begabter Charakter, der in pr
 * Bei Lehrern beliebt
 
 Punkt:
-> ...
-> .
+
+> Punkt sagt Punkt.
+> Punkt probiert das Fragezeichen

@@ -13,3 +13,5 @@ Punkt:
 
 > Punkt sagt Punkt.
 > Punkt probiert das Fragezeichen
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Schwarzer_Punkt_auf_weisem_Grund.jpg"/>

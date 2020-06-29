@@ -8,3 +8,7 @@ Punkt ist ein internationaler und außerordentlich begabter Charakter, der in pr
 * Klein
 * Steht unter Ausrufezeichen und Fragezeichen
 * Bei Lehrern beliebt
+
+Punkt:
+> ...
+> .
